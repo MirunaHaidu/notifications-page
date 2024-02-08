@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "avatar":"",
+        "username":"Mark Webber",
+        "text":"reacted to your recent post",
+        "post":"My first tournament today!",
+        "timestamp":"1m ago",
+        "markRead":false
+    },
+    {
+        "id": 2,
+        "avatar":"",
+        "username":"Angela Gray",
+        "text":"followed you",
+        "post":"",
+        "timestamp":"5m ago",
+        "markRead":false
+    },
+    {
+        "id": 3,
+        "avatar":"",
+        "username":"Jacob Thompson",
+        "text":"has joined your group",
+        "post":"Chess Club",
+        "timestamp":"1 day ago",
+        "markRead":false
+    },
+    {
+        "id": 4,
+        "avatar":"",
+        "username":"Rizky Hasanuddin",
+        "text":"sent you a private message",
+        "post":"",
+        "timestamp":"5 days ago",
+        "markRead":true
+    },
+    {
+        "id": 5,
+        "avatar":"",
+        "username":"Kimberly Smith",
+        "text":"commented on your picture",
+        "post":"",
+        "timestamp":"1 week ago",
+        "markRead":true
+    },
+    {
+        "id": 6,
+        "avatar":"",
+        "username":"Nathan Peterson",
+        "text":"reacted to your recent post",
+        "post":"5 end-game strategies to increase your win rate",
+        "timestamp":"2 weeks ago",
+        "markRead":true
+    },
+    {
+        "id": 7,
+        "avatar":"",
+        "username":"Anna Kim",
+        "text":"left the group",
+        "post":"Chess Club",
+        "timestamp":"2 weeks ago",
+        "markRead":true
+    }
+]
