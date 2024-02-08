@@ -1,3 +1,5 @@
+import '../styles/Notification.css'
+
 const Notification = ({ id, newPost, avatar, username, text, post, timestamp, markRead }) => {
     return (
         <div onClick={() => markRead(id)} className={newPost ? "notification-unread" : "notification"}>

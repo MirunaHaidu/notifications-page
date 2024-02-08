@@ -1,3 +1,6 @@
+import '../styles/Header.css'
+
+
 const Header = ({ markAll, counter }) => {
     return (
         <header>
@@ -7,7 +10,7 @@ const Header = ({ markAll, counter }) => {
                     {counter}
                 </div>
             </div>
-            <button onClick={markAll} name="button" type="button">
+            <button onClick={markAll} className="button" type="button">
                 Mark all as read
             </button>
         </header>

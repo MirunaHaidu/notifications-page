@@ -1,65 +1,65 @@
 [
     {
         "id": 1,
-        "avatar":"",
+        "avatar":"./avatar-mark-webber.webp",
         "username":"Mark Webber",
         "text":"reacted to your recent post",
         "post":"My first tournament today!",
         "timestamp":"1m ago",
-        "markRead":false
+        "newPost":true
     },
     {
         "id": 2,
-        "avatar":"",
+        "avatar":"./avatar-angela-gray.webp",
         "username":"Angela Gray",
         "text":"followed you",
         "post":"",
         "timestamp":"5m ago",
-        "markRead":false
+        "newPost":true
     },
     {
         "id": 3,
-        "avatar":"",
+        "avatar":"./avatar-jacob-thompson.webp",
         "username":"Jacob Thompson",
         "text":"has joined your group",
         "post":"Chess Club",
         "timestamp":"1 day ago",
-        "markRead":false
+        "newPost":true
     },
     {
         "id": 4,
-        "avatar":"",
+        "avatar":"./avatar-rizky-hasanuddin.webp",
         "username":"Rizky Hasanuddin",
         "text":"sent you a private message",
         "post":"",
         "timestamp":"5 days ago",
-        "markRead":true
+        "newPost":false
     },
     {
         "id": 5,
-        "avatar":"",
+        "avatar":"./avatar-kimberly-smith.webp",
         "username":"Kimberly Smith",
         "text":"commented on your picture",
         "post":"",
         "timestamp":"1 week ago",
-        "markRead":true
+        "newPost":false
     },
     {
         "id": 6,
-        "avatar":"",
+        "avatar":"./avatar-nathan-peterson.webp",
         "username":"Nathan Peterson",
         "text":"reacted to your recent post",
         "post":"5 end-game strategies to increase your win rate",
         "timestamp":"2 weeks ago",
-        "markRead":true
+        "newPost":false
     },
     {
         "id": 7,
-        "avatar":"",
+        "avatar":"./avatar-anna-kim.webp",
         "username":"Anna Kim",
         "text":"left the group",
         "post":"Chess Club",
         "timestamp":"2 weeks ago",
-        "markRead":true
+        "newPost":false
     }
 ]

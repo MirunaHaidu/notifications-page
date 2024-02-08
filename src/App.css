@@ -1,0 +1,12 @@
+@import url('./index.css');
+
+
+.app-container {
+    background-color: var(--white);
+    width: 90vh;
+    max-width: 730px;
+    padding: 33px 30px;
+    border-radius: 15px;
+    box-shadow:  0px 20px 60px 0px rgba(73, 97, 168, 0.05);
+}
+
