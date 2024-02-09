@@ -51,7 +51,7 @@ function App() {
   return (
     <div className='app-container'>
       <Header markAll={markAll} counter={counter}/>
-      <NotificationList notifications={notifications} markRead={markRead}/>
+      <NotificationList notifications={data} markRead={markRead}/>
     </div>
   )
 }

@@ -1,4 +1,5 @@
 import Notification from "./Notification";
+import '../styles/NotificationList.css'
 
 const NotificationList = ({ notifications, markRead }) => {
     return (

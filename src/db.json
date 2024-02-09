@@ -6,7 +6,10 @@
         "text":"reacted to your recent post",
         "post":"My first tournament today!",
         "timestamp":"1m ago",
-        "newPost":true
+        "newPost":true,
+        "isGroup": false,
+        "isMessage": false,
+        "message": ""
     },
     {
         "id": 2,
@@ -15,7 +18,10 @@
         "text":"followed you",
         "post":"",
         "timestamp":"5m ago",
-        "newPost":true
+        "newPost":true,
+        "isGroup": false,
+        "isMessage": false,
+        "message": ""
     },
     {
         "id": 3,
@@ -24,7 +30,10 @@
         "text":"has joined your group",
         "post":"Chess Club",
         "timestamp":"1 day ago",
-        "newPost":true
+        "newPost":true,
+        "isGroup": true,
+        "isMessage": false,
+        "message": ""
     },
     {
         "id": 4,
@@ -33,7 +42,10 @@
         "text":"sent you a private message",
         "post":"",
         "timestamp":"5 days ago",
-        "newPost":false
+        "newPost":false,
+        "isGroup": false,
+        "isMessage": true,
+        "message": "Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game."
     },
     {
         "id": 5,
@@ -42,7 +54,10 @@
         "text":"commented on your picture",
         "post":"",
         "timestamp":"1 week ago",
-        "newPost":false
+        "newPost":false,
+        "isGroup": false,
+        "isMessage": false,
+        "message": ""
     },
     {
         "id": 6,
@@ -51,7 +66,10 @@
         "text":"reacted to your recent post",
         "post":"5 end-game strategies to increase your win rate",
         "timestamp":"2 weeks ago",
-        "newPost":false
+        "newPost":false,
+        "isGroup": false,
+        "isMessage": false,
+        "message": ""
     },
     {
         "id": 7,
@@ -60,6 +78,9 @@
         "text":"left the group",
         "post":"Chess Club",
         "timestamp":"2 weeks ago",
-        "newPost":false
+        "newPost":false,
+        "isGroup": true,
+        "isMessage": false,
+        "message": ""
     }
 ]
